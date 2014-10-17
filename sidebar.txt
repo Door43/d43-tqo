@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tqo:home|Door43 (tqo)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tqo|d43-tqo repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tqo/archive/master.zip|d43-tqo.zip]]
+
+**Recent Changes**
+{{changes>ns = tqo}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tqo|Ethnologue data]]
+
